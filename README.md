@@ -1,10 +1,9 @@
-#command:
+# command:
 - *.JS
 - *.CSS
 - *.jpeg
 - *.jpg
 - *.svg
-- *
 - mkdir
 - rmdir
 - mv * current-folder
